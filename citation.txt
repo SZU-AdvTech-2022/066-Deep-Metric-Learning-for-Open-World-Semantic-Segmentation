@@ -1,0 +1,7 @@
+@inproceedings{REPO-067,
+    author = "Cen, Jun and Yun, Peng and Cai, Junhao and Wang, Michael Yu and Liu, Ming",
+    booktitle = "Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)",
+    pages = "15333-15342",
+    title = "{Deep Metric Learning for Open World Semantic Segmentation}",
+    year = "2021"
+}
